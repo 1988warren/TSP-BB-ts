@@ -1,0 +1,23 @@
+{
+  "name": "tsp-bb-ts",
+  "version": "1.0.0",
+  "description": "Solve TSP in Branch and Bound approach, using TypeScript",
+  "scripts": {
+    "lint": "tslint tests/*.ts -t verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1988warren/TSP-BB-ts.git"
+  },
+  "author": "Warren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1988warren/TSP-BB-ts/issues"
+  },
+  "homepage": "https://github.com/1988warren/TSP-BB-ts#readme",
+  "devDependencies": {
+    "@types/node": "^9.3.0",
+    "tslint": "^5.9.1",
+    "typescript": "^2.6.2"
+  }
+}
